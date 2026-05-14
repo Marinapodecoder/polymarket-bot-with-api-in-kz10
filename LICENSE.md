@@ -1,4 +1,4 @@
-# 
+# Polymarket updated Automation Script: backtesting & smart-contract-integration offers the most advanced Polymarket automation-script, with backtesting and
 
 
 
